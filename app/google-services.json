@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750481025905",
+    "project_id": "pruebabasedatos-e10ab",
+    "storage_bucket": "pruebabasedatos-e10ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750481025905:android:bfe85d6473bcfaef4524d0",
+        "android_client_info": {
+          "package_name": "com.example.pruebabasedatosgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750481025905-lbptp8eh8ihebigt60l3f7fv9lvmomvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pruebabasedatosgoogle",
+            "certificate_hash": "4ccb18b58c2f936f0395789fd41dc09ed2293676"
+          }
+        },
+        {
+          "client_id": "750481025905-blh6enbh48qgrsecrpu2reehefv1giq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANu8WM_7Lgc7LYYYL4xnOOX362tMBYBHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750481025905-blh6enbh48qgrsecrpu2reehefv1giq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
